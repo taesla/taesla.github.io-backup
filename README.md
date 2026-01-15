@@ -141,7 +141,7 @@
 
 ## 📫 Contact
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [cjstkdus6978@gmail.com](mailto:your-email@example.com)
 - **GitHub**: [@taesla](https://github.com/taesla)
 - **LinkedIn**: [www.linkedin.com/in/taesla](#)
 
