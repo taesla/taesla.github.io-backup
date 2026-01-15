@@ -143,7 +143,7 @@
 
 - **Email**: [your-email@example.com](mailto:your-email@example.com)
 - **GitHub**: [@taesla](https://github.com/taesla)
-- **LinkedIn**: [linkedin.com/in/your-profile](#)
+- **LinkedIn**: [www.linkedin.com/in/taesla](#)
 
 ---
 
