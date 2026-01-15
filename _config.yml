@@ -1,0 +1,25 @@
+title: 이태연 Portfolio
+description: Autonomous Driving Software Engineer | 자율주행 소프트웨어 엔지니어
+author: 이태연 (Taeyeon Lee)
+email: your-email@example.com  # 본인 이메일로 변경
+url: "https://taesla.github.io"
+baseurl: ""
+
+# Theme
+theme: jekyll-theme-cayman
+
+# Social Links
+github_username: taesla
+linkedin_username: your-linkedin  # LinkedIn ID로 변경
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
