@@ -4,7 +4,7 @@
 > 서울과학기술대학교 자동차공학과 석사 (2025.02 졸업)
 
 [![GitHub](https://img.shields.io/badge/GitHub-taesla-181717?style=flat-square&logo=github)](https://github.com/taesla)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:cjstkdus6978@gmail.com)
 
 ---
 
