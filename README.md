@@ -81,9 +81,8 @@
 
 **주요 성과**:
 - 후륜 조향(Rear-Wheel Steering)을 활용한 요 모션(Yaw Motion) 제어
-- 차량 동역학 시뮬레이션 모델 구축
-- **MSDV(Motion Sickness Dose Value) 23% 감소** 달성
-- 석사학위논문 완성
+- 횡 가속이 높은 환경에서 **MSDV(Motion Sickness Dose Value) 23% 감소** 달성
+- 석사학위논문
 
 **기술 스택**: `MATLAB/Simulink` `Vehicle Dynamics` `Control Theory` `Rear-Wheel Steering`
 
